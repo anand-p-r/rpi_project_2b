@@ -36,9 +36,10 @@ while (1):
         time_str = time_str.replace("-", "_").replace(":","_").replace(".","_").replace(" ","_")
 
         for i in range (3):
-            output_file_name = str(i).join([default_image_dir,
+            output_file_name = "".join([default_image_dir,
                                             output_file_prefix,
                                             time_str,
+                                            "_", str(i),
                                             output_file_suffix])
             ## Take the pic
             cmd = cmd_to_pic + output_file_name
