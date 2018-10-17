@@ -1,0 +1,320 @@
+Count-0
+Timestamp - 2018-10-15 22:45:09.498353
+Count-1
+Timestamp - 2018-10-15 22:49:24.027862
+Count-2
+Timestamp - 2018-10-15 22:49:57.621593
+Count-3
+Timestamp - 2018-10-15 22:50:31.728854
+Count-4
+Timestamp - 2018-10-15 22:51:05.063168
+Count-5
+Timestamp - 2018-10-15 22:51:38.771639
+Count-6
+Timestamp - 2018-10-15 22:52:27.468196
+Count-7
+Timestamp - 2018-10-15 22:53:25.687897
+Count-8
+Timestamp - 2018-10-15 22:54:04.760344
+Count-9
+Timestamp - 2018-10-15 22:54:38.148655
+Count-10
+Timestamp - 2018-10-15 22:55:23.347330
+Count-11
+Timestamp - 2018-10-15 22:55:56.808205
+Count-12
+Timestamp - 2018-10-15 23:16:37.702424
+Count-13
+Timestamp - 2018-10-15 23:17:15.042089
+Count-14
+Timestamp - 2018-10-15 23:17:48.993328
+Count-15
+Timestamp - 2018-10-15 23:18:38.124485
+Count-16
+Timestamp - 2018-10-15 23:22:51.398138
+Count-17
+Timestamp - 2018-10-16 03:19:23.314814
+Count-18
+Timestamp - 2018-10-16 03:21:42.990347
+Count-19
+Timestamp - 2018-10-16 03:22:18.936575
+Count-20
+Timestamp - 2018-10-16 03:22:56.676189
+Count-21
+Timestamp - 2018-10-16 05:18:38.684638
+Count-22
+Timestamp - 2018-10-16 07:28:40.352666
+Count-23
+Timestamp - 2018-10-16 07:29:33.307313
+Count-24
+Timestamp - 2018-10-16 07:35:05.660017
+Count-25
+Timestamp - 2018-10-16 07:35:46.891060
+Count-26
+Timestamp - 2018-10-16 07:41:28.725491
+Count-27
+Timestamp - 2018-10-16 07:55:28.593414
+Count-28
+Timestamp - 2018-10-16 07:56:01.982196
+Count-29
+Timestamp - 2018-10-16 08:07:01.277125
+Count-30
+Timestamp - 2018-10-16 08:07:34.713435
+Count-31
+Timestamp - 2018-10-16 08:14:42.517293
+Count-32
+Timestamp - 2018-10-16 08:17:22.994391
+Count-33
+Timestamp - 2018-10-16 08:18:21.311715
+Count-34
+Timestamp - 2018-10-16 08:19:11.604655
+Count-35
+Timestamp - 2018-10-16 08:19:59.291456
+Count-36
+Timestamp - 2018-10-16 08:20:37.150724
+Count-37
+Timestamp - 2018-10-16 08:21:18.979760
+Count-38
+Timestamp - 2018-10-16 08:22:00.795012
+Count-39
+Timestamp - 2018-10-16 08:22:36.183178
+Count-40
+Timestamp - 2018-10-16 08:23:09.786502
+Count-41
+Timestamp - 2018-10-16 08:23:53.262996
+Count-42
+Timestamp - 2018-10-16 08:24:47.821591
+Count-43
+Timestamp - 2018-10-16 08:25:36.538087
+Count-44
+Timestamp - 2018-10-16 08:42:02.879406
+Count-45
+Timestamp - 2018-10-16 08:42:36.243983
+Count-46
+Timestamp - 2018-10-16 08:43:09.617073
+Count-47
+Timestamp - 2018-10-16 08:43:54.648974
+Count-48
+Timestamp - 2018-10-16 08:44:28.198647
+Count-49
+Timestamp - 2018-10-16 08:45:01.567030
+Count-50
+Timestamp - 2018-10-16 09:25:44.204243
+Count-51
+Timestamp - 2018-10-16 09:27:16.173521
+Count-52
+Timestamp - 2018-10-16 09:28:24.304537
+Count-53
+Timestamp - 2018-10-16 09:29:23.666327
+Count-54
+Timestamp - 2018-10-16 09:29:59.253247
+Count-55
+Timestamp - 2018-10-16 09:30:32.928669
+Count-56
+Timestamp - 2018-10-16 09:31:08.736785
+Count-57
+Timestamp - 2018-10-16 09:33:06.495871
+Count-58
+Timestamp - 2018-10-16 09:45:06.173848
+Count-59
+Timestamp - 2018-10-16 09:45:56.621268
+Count-60
+Timestamp - 2018-10-16 09:46:36.324677
+Count-61
+Timestamp - 2018-10-16 09:48:20.214304
+Count-62
+Timestamp - 2018-10-16 09:49:19.964173
+Count-63
+Timestamp - 2018-10-16 10:42:41.863728
+Count-64
+Timestamp - 2018-10-16 10:43:15.428437
+Count-65
+Timestamp - 2018-10-16 10:44:27.864187
+Count-66
+Timestamp - 2018-10-16 10:45:01.571871
+Count-67
+Timestamp - 2018-10-16 10:45:56.434427
+Count-68
+Timestamp - 2018-10-16 11:11:08.564173
+Count-69
+Timestamp - 2018-10-16 11:11:42.249100
+Count-70
+Timestamp - 2018-10-16 11:33:36.244793
+Count-71
+Timestamp - 2018-10-16 13:06:18.971541
+Count-72
+Timestamp - 2018-10-16 13:06:52.884895
+Count-73
+Timestamp - 2018-10-16 13:21:46.452262
+Count-74
+Timestamp - 2018-10-16 14:01:48.777954
+Count-75
+Timestamp - 2018-10-16 14:02:53.507901
+Count-76
+Timestamp - 2018-10-16 14:15:03.955710
+Count-77
+Timestamp - 2018-10-16 14:40:06.037205
+Count-78
+Timestamp - 2018-10-16 15:55:57.057601
+Count-79
+Timestamp - 2018-10-16 16:06:57.272990
+Count-80
+Timestamp - 2018-10-16 16:08:08.615803
+Count-81
+Timestamp - 2018-10-16 16:09:17.571354
+Count-82
+Timestamp - 2018-10-16 16:10:25.191711
+Count-83
+Timestamp - 2018-10-16 16:11:07.495870
+Count-84
+Timestamp - 2018-10-16 16:12:26.178656
+Count-85
+Timestamp - 2018-10-16 16:14:43.530669
+Count-86
+Timestamp - 2018-10-16 16:15:17.011753
+Count-87
+Timestamp - 2018-10-16 16:15:50.650724
+Count-88
+Timestamp - 2018-10-16 16:16:24.120899
+Count-89
+Timestamp - 2018-10-16 16:16:57.570519
+Count-90
+Timestamp - 2018-10-16 16:17:31.132111
+Count-91
+Timestamp - 2018-10-16 16:18:14.096493
+Count-92
+Timestamp - 2018-10-16 16:18:47.562360
+Count-93
+Timestamp - 2018-10-16 16:19:21.097917
+Count-94
+Timestamp - 2018-10-16 18:26:54.555360
+Count-95
+Timestamp - 2018-10-16 18:27:28.247677
+Count-96
+Timestamp - 2018-10-16 18:28:01.785479
+Count-97
+Timestamp - 2018-10-16 18:28:35.473777
+Count-98
+Timestamp - 2018-10-16 18:29:10.795436
+Count-99
+Timestamp - 2018-10-16 18:29:49.613072
+Count-100
+Timestamp - 2018-10-16 18:30:23.197926
+Count-101
+Timestamp - 2018-10-16 18:30:56.702887
+Count-102
+Timestamp - 2018-10-16 18:31:30.136966
+Count-103
+Timestamp - 2018-10-16 18:32:30.460280
+Count-104
+Timestamp - 2018-10-16 18:33:04.105600
+Count-105
+Timestamp - 2018-10-16 19:08:48.748226
+Count-106
+Timestamp - 2018-10-16 19:24:24.455713
+Count-107
+Timestamp - 2018-10-16 19:27:27.319940
+Count-108
+Timestamp - 2018-10-16 19:33:40.532665
+Count-109
+Timestamp - 2018-10-16 19:34:15.293495
+Count-110
+Timestamp - 2018-10-16 19:34:49.252879
+Count-111
+Timestamp - 2018-10-16 19:35:24.390953
+Count-112
+Timestamp - 2018-10-16 19:36:35.587137
+Count-113
+Timestamp - 2018-10-16 19:48:24.609578
+Count-114
+Timestamp - 2018-10-16 20:17:23.722627
+Count-115
+Timestamp - 2018-10-16 20:19:34.507195
+Count-116
+Timestamp - 2018-10-16 20:20:08.184562
+Count-117
+Timestamp - 2018-10-16 20:23:22.775149
+Count-118
+Timestamp - 2018-10-16 20:44:05.613368
+Count-119
+Timestamp - 2018-10-16 20:44:39.301435
+Count-120
+Timestamp - 2018-10-16 20:53:01.163654
+Count-121
+Timestamp - 2018-10-16 21:21:15.900063
+Count-122
+Timestamp - 2018-10-16 21:37:05.452344
+Count-123
+Timestamp - 2018-10-16 21:37:39.274532
+Count-124
+Timestamp - 2018-10-16 21:57:54.084914
+Count-125
+Timestamp - 2018-10-16 21:59:28.341660
+Count-126
+Timestamp - 2018-10-16 22:01:49.359625
+Count-127
+Timestamp - 2018-10-16 22:06:50.390483
+Count-128
+Timestamp - 2018-10-16 22:26:47.423279
+Count-129
+Timestamp - 2018-10-16 22:27:20.919048
+Count-130
+Timestamp - 2018-10-16 22:27:54.335775
+Count-131
+Timestamp - 2018-10-16 22:28:33.313752
+Count-132
+Timestamp - 2018-10-16 22:29:06.822587
+Count-133
+Timestamp - 2018-10-16 22:29:40.432018
+Count-134
+Timestamp - 2018-10-16 22:30:17.407131
+Count-135
+Timestamp - 2018-10-16 22:30:59.375535
+Count-136
+Timestamp - 2018-10-16 22:31:34.838156
+Count-137
+Timestamp - 2018-10-16 22:32:08.555018
+Count-138
+Timestamp - 2018-10-16 22:32:42.047390
+Count-139
+Timestamp - 2018-10-16 22:33:31.963913
+Count-140
+Timestamp - 2018-10-16 22:34:11.635885
+Count-141
+Timestamp - 2018-10-16 22:34:48.179799
+Count-142
+Timestamp - 2018-10-16 22:48:06.338462
+Count-143
+Timestamp - 2018-10-16 22:49:25.490340
+Count-144
+Timestamp - 2018-10-16 22:53:25.105743
+Count-145
+Timestamp - 2018-10-16 22:53:58.781084
+Count-146
+Timestamp - 2018-10-16 22:57:20.152104
+Count-147
+Timestamp - 2018-10-16 22:58:07.447768
+Count-148
+Timestamp - 2018-10-16 22:58:52.830449
+Count-149
+Timestamp - 2018-10-16 23:01:52.210736
+Count-150
+Timestamp - 2018-10-16 23:03:02.355308
+Count-151
+Timestamp - 2018-10-16 23:03:36.104670
+Count-152
+Timestamp - 2018-10-16 23:04:09.597783
+Count-153
+Timestamp - 2018-10-16 23:04:53.008155
+Count-154
+Timestamp - 2018-10-16 23:06:08.964635
+Count-155
+Timestamp - 2018-10-16 23:06:47.292819
+Count-156
+Timestamp - 2018-10-16 23:09:46.092635
+Count-157
+Timestamp - 2018-10-17 06:31:52.060897
+Count-158
+Timestamp - 2018-10-17 06:32:25.764764
+Count-159
+Timestamp - 2018-10-17 06:37:53.518368
